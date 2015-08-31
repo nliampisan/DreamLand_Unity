@@ -9,3 +9,5 @@ floating purple cube and it will give you an extra 10 seconds.
 The normal fps controls apply. WASD or arrow keys for movement. Left Mouse to fire laser. Space to jump. 
 
 You can see screenshots of the game in the screenshots folder. 
+
+![alt tag](https://github.com/nliampisan/DreamLand_Unity/blob/master/ScreenShots/screenshot1.png)
